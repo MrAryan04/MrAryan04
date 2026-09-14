@@ -1,6 +1,6 @@
 ## Hi, I'm Aryan 👋
 
-Master of Information Technology student at CQUniversity Sydney, building my career in IT support, automation and AI. I love turning ideas into working software — and I document everything I build here.
+Master of Information Technology student at the Sydney International School of Technology and Commerce (SISTC), building my career in IT support, automation and AI. I love turning ideas into working software — and I document everything I build here.
 
 ### 🔨 Pinned Projects
 - **Helping Hand** — Community support app connecting people with volunteer helpers. Flutter + Firebase (Auth, Firestore, Storage, Messaging), live chat, video calls, geolocation, admin panel.
@@ -11,7 +11,7 @@ Master of Information Technology student at CQUniversity Sydney, building my car
 `Flutter` `Dart` `Firebase` `JavaScript` `HTML/CSS` `SQL` `Java` `.NET` `Python` `Power BI` `AI tools`
 
 ### 📚 Currently
-- Master of IT @ CQUniversity Sydney
+- Master of IT @ SISTC, Sydney
 - Exploring Power Automate, Power BI and AI-assisted workflows
 - Open to part-time IT internships and support roles in Sydney
 
